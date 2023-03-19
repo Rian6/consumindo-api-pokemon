@@ -1,0 +1,58 @@
+
+
+.background {
+    width: 98.9vw;
+    min-height: 100vh;
+    background: #70a7e2;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.pokedex-container {
+    border-radius: 20px;
+    padding: 30px;
+    width: 500px;
+    min-height: 600px;
+    background: #ffffff;
+}
+
+.pokedex-header {
+    flex-direction: row;
+    display: flex;
+}
+
+.pokemon-image {
+    padding: 10px !important;
+    margin: 0px;
+    border-radius: 10px;
+}
+
+.pesquisa-container{
+    flex-direction: row;
+    width: 250px;
+}
+
+.pesquisa {
+    border-color: red;
+}
+
+.tips {
+    padding: 5px;
+}
+
+.tip {
+    margin-right: 2px;
+    margin-bottom: 4px;
+}
+
+.botao-pesquisa{
+    border-color: red;
+    background-color: red;
+    width: 100px;
+    border-radius: 5px !important;
+    height: 55px;
+}
