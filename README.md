@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# Pokedex
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto feito para consumir a api https://pokeapi.co/
 
-## Available Scripts
+## Iniciando
 
-In the project directory, you can run:
+### Clonando o projeto
+Para clonar o projeto use o comando: 
+`git clone `
+
 
 ### `npm start`
 
